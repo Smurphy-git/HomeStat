@@ -1,7 +1,7 @@
 ## Welcome to HomeStat
 ### an iOS App for Apple HomeKit and Hubitat Elevation
 
-
+![Image]slide1.pg
 
 ```markdown
 Syntax highlighted code block
