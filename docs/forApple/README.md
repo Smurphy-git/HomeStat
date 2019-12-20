@@ -6,7 +6,7 @@ Video Link for basic setup instructions:
 	
 	https://youtu.be/fLg9Aa9fihU
 
-Basic Instructions - FOR APPLE ONLY:
+**Basic Instructions - FOR APPLE ONLY:**
 	At app start you will prompted for IP Address, App Id and Token.
 	I have created a hidden macro to populate the required fields.
 		To activate the macro, type the four digits ' 9502 ' in the App Id field.  It will then populate the AppId, and both Token fields.
