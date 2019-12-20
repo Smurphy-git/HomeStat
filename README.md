@@ -1,6 +1,9 @@
 ## Welcome to HomeStat
 ### an iOS App for Apple HomeKit and Hubitat Elevation
 
+https://smurphy-git.github.io/HomeStat/
+
+
 ```markdown
 Syntax highlighted code block
 
