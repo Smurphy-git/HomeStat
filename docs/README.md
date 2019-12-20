@@ -3,31 +3,17 @@
 
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Smurphy-git/HomeStat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](slides/Slide3.jpeg)
+![Image](slides/Slide4.jpeg)
+![Image](slides/Slide5.jpeg)
+![Image](slides/Slide6.jpeg)
+![Image](slides/Slide7.jpeg)
+![Image](slides/Slide8.jpeg)
+![Image](slides/Slide9.jpeg)
+![Image](slides/Slide10.jpeg)
+![Image](slides/Slide11.jpeg)
+![Image](slides/Slide12.jpeg)
+![Image](slides/Slide13.jpeg)
+![Image](slides/Slide14.jpeg)
+![Image](slides/Slide15.jpeg)
+![Image](slides/Slide16.jpeg)
