@@ -44,5 +44,7 @@
 	
 	• Hub Name / Location:  Give your hub a name
 	• Save Changes: When you have correctly entered the required parameters, select this to Save the configuration.
-	• IP Address: The local IP Address of your hub.
-App Id
+	• IP Address: The local IP Address of your hub
+	* App Id
+	
+	
