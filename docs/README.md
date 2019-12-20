@@ -1,8 +1,8 @@
 ## Welcome to HomeStat
 ### an iOS App for Apple HomeKit and Hubitat Elevation
 
-![Image](Slides/Slide1.jpeg)
-![Image](Slides/Slide2.jpeg)
+![Image](slides/Slide1.jpeg)
+![Image](slides/Slide2.jpeg)
 
 ```markdown
 Syntax highlighted code block
