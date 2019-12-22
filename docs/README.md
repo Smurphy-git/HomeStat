@@ -1,5 +1,6 @@
-## Welcome to HomeStat
-### an iOS App for Apple HomeKit and Hubitat Elevation
+![Image](slides/Slide1.jpeg)
+
+<p align="center"><a href = "http://homestatapp.com">HomeStat | <a href="http://homestatapp.com/homekit">HomeKit</a> | <a href="http://homestatapp.com/hubitat">Hubitat</a> | <a href="https://twitter.com/HomeStatApp">Twitter</a> | <a href="http://homestatapp.com/privacy">Privacy</a> | <a href="http://homestatapp.com">Extra</a><br/></p>
 
 ### Instructions to setup HomeStat for Hubitat Elevation
 
