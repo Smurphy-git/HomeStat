@@ -1,6 +1,19 @@
-![Image](slides/Slide1.jpeg)
+
 
 <p align="center"><a href = "http://homestatapp.com">HomeStat</a> | <a href="http://homestatapp.com/homekit">HomeKit</a> | <a href="http://homestatapp.com/hubitat">Hubitat</a> | <a href="https://twitter.com/HomeStatApp">Twitter</a> | <a href="http://homestatapp.com/privacy">Privacy</a> | <a href="http://homestatapp.com">Extra</a></p>
+
+**Groups**
+* Create Groups for your Devices
+* See the Staus of Devices:
+    * Lights & Switches: On/Off
+    * Doors & Windows: Open/Closed
+    * Motion Sensors: Active/Inactive
+    * Family Presence (Hubitat Only)
+    * Temperature
+    * Battery Status
+    * Humidity
+    * more to come
+
 
 ### Instructions to setup HomeStat for Hubitat Elevation
 
