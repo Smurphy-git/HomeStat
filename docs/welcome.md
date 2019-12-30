@@ -1,4 +1,4 @@
-# Welcome to the HomeStat for HomeKit and Hubitat
+# HomeStat for HomeKit and Hubitat
 
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
