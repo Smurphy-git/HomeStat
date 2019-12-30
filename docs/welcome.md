@@ -1,7 +1,7 @@
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
 ![Image](slides/Slide3.jpeg)
-![Image](slides/Slide4.jpeg)
+![Image](slides/Slide-4.jpg)
 ![Image](slides/Slide5.jpeg)
 
 ### General HomeStat Info
