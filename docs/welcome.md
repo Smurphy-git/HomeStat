@@ -42,5 +42,5 @@ When selected, the cycle time of a recent polling cycle will display with the Ho
 	• HomeStat currently has the capability to poll data from only one hub.  Eventually, I hope to expand the functionality to poll data from multiple hubs.
 	• Hubitat has API functionality that is core to the functionality of HomeStat.  You must properly configure the Maker API from within Hubitat so that data can be retrieved from your Hubitat hub.
 * https://docs.hubitat.com/index.php?title=Hubitat™_Maker_API
-* See this detailed documentation page
+* https://smurphy-git.github.io/HomeStat/Hubitat
 
