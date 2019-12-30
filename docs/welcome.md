@@ -30,8 +30,8 @@
 Refresh Interval (seconds)
 HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 3 (poll every 4th cycle).  When a device is associated with any group, the poll interval is raised to a priority of 3 (poll every 4th cycle).
 * Devices Per Line: 
-** Default: 7
-** When a group has more devices than this parameter, it will separate the group name and device status icons into multiple lines.
+* Default: 7
+* When a group has more devices than this parameter, it will separate the group name and device status icons into multiple lines.
 
 ***Hubitat Configuration:***
 This section displays a summary of the current Hubitat configuration.  Select this to modify the settings.
@@ -41,13 +41,6 @@ When selected, the cycle time of a recent polling cycle will display with the Ho
 **Hubitat Settings**
 	• HomeStat currently has the capability to poll data from only one hub.  Eventually, I hope to expand the functionality to poll data from multiple hubs.
 	• Hubitat has API functionality that is core to the functionality of HomeStat.  You must properly configure the Maker API from within Hubitat so that data can be retrieved from your Hubitat hub.
-		○ https://docs.hubitat.com/index.php?title=Hubitat™_Maker_API
-	
-	• Hub Name / Location:  Give your hub a name
-	• Save Changes: When you have correctly entered the required parameters, select this to Save the configuration.
-	• IP Address: The local IP Address of your hub
-	* App Id
-	
-	
+* https://docs.hubitat.com/index.php?title=Hubitat™_Maker_API
+* See this detailed documentation page
 
-		○ HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 5 (poll every 16th cycle).  When a device is associated with any group, the poll interval is raised to a priority of 3 (poll every 4th cycle).
