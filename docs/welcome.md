@@ -1,4 +1,4 @@
-# Welcome to the HomeStat for HomeKit and Hubitat wiki
+# Welcome to the HomeStat for HomeKit and Hubitat
 ## Subhead
 ### Minor Headline
 
@@ -8,18 +8,22 @@
 ![Image](slides/Slide4.jpeg)
 ![Image](slides/Slide5.jpeg)
 
-**HomeStat for Hubitat** is a dashboard and device control application for your Hubitat connected home automation devices. Tag each device to one or more Groups. Quickly visualize the status of devices from the main view. Watch the status change on devices as the real time status changes in your home. Drill down into a group for detailed status and the ability to send control commands to the devices. Toggle lights, switches, bulbs and outlets. Dim and change colors on bulbs. Check the battery status on all battery powered devices.
+### General HomeStat Info
+HomeStat for Apple HomeKit and [Hubitat Elevation](https://hubitat.com) is a dashboard and device control application for your connected home automation devices. Tag each device to one or more Groups. Quickly visualize the status of devices from the main view. Watch the status change on devices as the real time status changes in your home. Drill down into a group for detailed status and the ability to send control commands to the devices. Toggle lights, switches, bulbs and outlets. Dim and change colors on bulbs. Check the battery status on all battery powered devices.
 * Assign tags to devices to associate them by categories
 * Assign devices to multiple categories
 * View the status of all doors & motion detectors
 * Toggle the status of lights, switches and outlets
 * Change the brightness of bulbs and lights
 
-**Dashboard:** The main screen of HomeStat.  It shows GroupNames and the status of the devices associated with the groups.
+### Dashboard
+Dashboard: The main screen of HomeStat.  It shows GroupNames and the status of the devices associated with the groups.
 
-**Group:** The core concept of HomeStat is placing your devices into one of more groups.  Those groups are displayed on the dashboard of HomeStat.   
+### Groups
+Group: The core concept of HomeStat is placing your devices into one of more groups.  Those groups are displayed on the dashboard of HomeStat.   
 
-**Priority:**  The frequency at each data is requested for each device.
+### Device Priority
+Priority: The frequency at each data is requested for each device.
 * Priority 1 - Poll every cycle
 * Priority 2 - Poll every other cycle
 * Priority 3 - Poll every 4th cycle - default when a device is first assigned to any group
@@ -30,11 +34,13 @@
 * A setting / parameter assigned to each device.  The priority of each device translates into the frequency to which data is requested from the Hubitat hub for each device.  
 * When on a Group Page, each device in the group is polled every cycle.
 	
-**Refresh Interval:**  The number of seconds between refresh requests this HomeStat app requests data from your Hubitat hub.
+### Refresh Interval
+Refresh Interval: The number of seconds between refresh requests this HomeStat app requests data from your Hubitat hub.
 
-**Cycle Time:** Advanced Setting - The duration (seconds) for a recent refresh cycle, from when data was requested from a device, to when data was received from that device.  You do not want the cycle time to be greater than the refresh interval.  This data is displayed at the top of the screen with the HomeStat name.
+### Cycle Time
+Cycle Time: (Advanced Setting) - The duration (seconds) for a recent refresh cycle, from when data was requested from a device, to when data was received from that device.  You do not want the cycle time to be greater than the refresh interval.  This data is displayed at the top of the screen with the HomeStat name.
 	
-**HomeStat Settings**
+### HomeStat Settings
 Refresh Interval (seconds)
 HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 3 (poll every 4th cycle).  When a device is associated with any group, the poll interval is raised to a priority of 3 (poll every 4th cycle).
 * Devices Per Line: 
