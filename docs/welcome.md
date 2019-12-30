@@ -1,3 +1,9 @@
+![Image](slides/Slide1.jpeg)
+![Image](slides/Slide2.jpeg)
+![Image](slides/Slide3.jpeg)
+![Image](slides/Slide4.jpeg)
+![Image](slides/Slide5.jpeg)
+
 **Welcome to the HomeStat for HomeKit and Hubitat wiki!**
 
 **HomeStat for Hubitat** is a dashboard and device control application for your Hubitat connected home automation devices. Tag each device to one or more Groups. Quickly visualize the status of devices from the main view. Watch the status change on devices as the real time status changes in your home. Drill down into a group for detailed status and the ability to send control commands to the devices. Toggle lights, switches, bulbs and outlets. Dim and change colors on bulbs. Check the battery status on all battery powered devices.
