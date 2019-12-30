@@ -1,6 +1,4 @@
 # Welcome to the HomeStat for HomeKit and Hubitat
-## Subhead
-### Minor Headline
 
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
