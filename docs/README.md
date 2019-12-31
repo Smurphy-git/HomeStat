@@ -1,6 +1,6 @@
-// README for PC/Based Welcome
 
-<p align="center"><a href = "http://homestatapp.com">HomeStat</a> | <a href="https://www.apple.com/ios/home/">HomeKit</a> | <a href="https://smurphy-git.github.io/HomeStat/Hubitat">Hubitat</a> | <a href="https://smurphy-git.github.io/HomeStat/privacyPolicy">Privacy</a></p>
+
+<p align="center"><a href = "http://homestatapp.com">HomeStat</a> | <a href="https://www.apple.com/ios/home/">HomeKit</a> | <a href="https://smurphy-git.github.io/HomeStat/Hubitat">Hubitat</a> | <a href="https://twitter.com/HomeStatApp">Twitter</a> | <a href="https://smurphy-git.github.io/HomeStat/privacyPolicy">Privacy</a></p>
 
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
@@ -28,14 +28,14 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 * Kitchen, Bedroom, Garage, Exterior, LivingRoom, FamilyRoom
 
 
-**Priority:**  The frequency at each data is requested for each device.
-	• Priority 1 - Poll every cycle
-	• Priority 2 - Poll every other cycle
-	• Priority 3 - Poll every 4th cycle - default when a device is first assigned to any group
-	• Priority 4 - Poll every 8th cycle
-	• Priority 5 - Poll every 16th cycle - default for devices not assigned a group
-	• Priority 6 - Poll every 32nd cycle
-	• Priority 7 - Poll every 64th cycle
+**Priority:**  The frequency at each data is requested for each device.  Priority is an important concept for Hubitat.  HomeStat queries the Hubitat Hub at a specific Refresh Interval 
+* Priority 1 - Poll every cycle
+* Priority 2 - Poll every other cycle
+* Priority 3 - Poll every 4th cycle - default when a device is first assigned to any group
+* Priority 4 - Poll every 8th cycle
+* Priority 5 - Poll every 16th cycle - default for devices not assigned a group
+* Priority 6 - Poll every 32nd cycle
+* Priority 7 - Poll every 64th cycle
 	• A setting / parameter assigned to each device.  The priority of each device translates into the frequency to which data is requested from the Hubitat hub for each device.  
 	• When on a Group Page, each device in the group is polled every cycle.
 	
@@ -76,3 +76,6 @@ App Id
 ![Image](slides/Slide11.jpeg)
 ![Image](slides/Slide12.jpeg)
 ![Image](slides/Slide13.jpeg)
+![Image](slides/Slide14.jpeg)
+![Image](slides/Slide15.jpeg)
+![Image](slides/Slide16.jpeg)
