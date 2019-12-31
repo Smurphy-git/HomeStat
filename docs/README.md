@@ -76,6 +76,3 @@ App Id
 ![Image](slides/Slide11.jpeg)
 ![Image](slides/Slide12.jpeg)
 ![Image](slides/Slide13.jpeg)
-![Image](slides/Slide14.jpeg)
-![Image](slides/Slide15.jpeg)
-![Image](slides/Slide16.jpeg)
