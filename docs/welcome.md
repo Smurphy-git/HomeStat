@@ -7,8 +7,6 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 * Toggle the status of lights, switches and outlets
 * Change the brightness of bulbs and lights
 
-Follow this link for [detailed setup instructions.](https://smurphy-git.github.io/HomeStat/detailedSetup)
-
 Hubitat Elevation users, follow this for link for [Hubitat Setup](https://smurphy-git.github.io/HomeStat/Hubitat) instructions.
 
 ### See the below sample screenshots.
