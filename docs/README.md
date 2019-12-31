@@ -8,19 +8,25 @@
 ![Image](slides/Slide4.jpeg)
 ![Image](slides/Slide5.jpeg)
 
-## Welcome to the HomeStat for HomeKit and Hubitat*
+## Welcome to the HomeStat for HomeKit and Hubitat
 
 ### General HomeStat Info
 HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Elevation](https://hubitat.com) is a dashboard and device control application for your connected home automation devices. Tag each device to one or more Groups. Quickly visualize the status of devices from the main view. Watch the status change on devices as the real time status changes in your home. Drill down into a group for detailed status and the ability to send control commands to the devices. Toggle lights, switches, bulbs and outlets. Dim and change colors on bulbs. Check the battery status on all battery powered devices.
-* Assign tags to devices to associate them by categories
-* Assign devices to multiple categories
+* Created groups for your most important devices
+* Assign devices to multiple groups
 * View the status of all doors & motion detectors
 * Toggle the status of lights, switches and outlets
-* Change the brightness of bulbs and lights
+* Change the brightness and color of bulbs and lights
+* Visualize battery and temperature status
+* See raw attributes from Hubitat and Apple Homekit
+* Assign an alias to any device to use a more family friendly name
 
 **Dashboard:**  The main screen of HomeStat.  It shows GroupNames and the status of the devices associated with the groups.
 
-**Group:** The core concept of HomeStat is placing your devices into one of more groups.  Those groups are displayed on the dashboard of HomeStat.   
+**Group:** The core concept of HomeStat is placing your devices into one of more groups.  Those groups are displayed on the dashboard of HomeStat. I prefer group names based on functionality of devices, but you may also use groups based of locations
+* Lights, Motion, Doors, Family, Batteries, Temperature
+* Kitchen, Bedroom, Garage, Exterior, LivingRoom, FamilyRoom
+
 
 **Priority:**  The frequency at each data is requested for each device.
 	• Priority 1 - Poll every cycle
