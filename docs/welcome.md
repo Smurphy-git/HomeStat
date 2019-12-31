@@ -22,12 +22,3 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 ![Image](IMG_0161.PNG)
 ![Image](IMG_0162.PNG)
 
-
-
-
-
-![Image](slides/Slide1.jpeg)
-![Image](slides/Slide2.jpeg)
-![Image](slides/Slide3.jpeg)
-![Image](slides/Slide4.jpeg)
-![Image](slides/Slide5.jpeg)
