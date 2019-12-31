@@ -11,6 +11,8 @@ Follow this link for [detailed setup instructions.](https://smurphy-git.github.i
 
 Hubitat Elevation users, follow this for link for [Hubitat Setup](https://smurphy-git.github.io/HomeStat/Hubitat) instructions.
 
+### See the below sample screenshots.
+
 ![Image](screenShots/IMG_0151.PNG)
 ![Image](screenShots/IMG_0152.PNG)
 ![Image](screenShots/IMG_0153.PNG)
