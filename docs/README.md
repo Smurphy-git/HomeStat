@@ -1,6 +1,6 @@
+// README for PC/Based Welcome
 
-
-<p align="center"><a href = "http://homestatapp.com">HomeStat</a> | <a href="https://www.apple.com/ios/home/">HomeKit</a> | <a href="https://smurphy-git.github.io/HomeStat/Hubitat">Hubitat</a> | <a href="https://twitter.com/HomeStatApp">Twitter</a> | <a href="https://smurphy-git.github.io/HomeStat/privacyPolicy">Privacy</a></p>
+<p align="center"><a href = "http://homestatapp.com">HomeStat</a> | <a href="https://www.apple.com/ios/home/">HomeKit</a> | <a href="https://smurphy-git.github.io/HomeStat/Hubitat">Hubitat</a> | <a href="https://smurphy-git.github.io/HomeStat/privacyPolicy">Privacy</a></p>
 
 ![Image](slides/Slide1.jpeg)
 ![Image](slides/Slide2.jpeg)
