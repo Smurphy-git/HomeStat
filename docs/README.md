@@ -36,17 +36,19 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 * Priority 5 - Poll every 16th cycle - default for devices not assigned a group
 * Priority 6 - Poll every 32nd cycle
 * Priority 7 - Poll every 64th cycle
-	• A setting / parameter assigned to each device.  The priority of each device translates into the frequency to which data is requested from the Hubitat hub for each device.  
-	• When on a Group Page, each device in the group is polled every cycle.
+* A setting / parameter assigned to each device.  The priority of each device translates into the frequency to which data is requested from the Hubitat hub for each device.  
+* When on a Group Page, each device in the group is polled every cycle.
 	
 **Refresh Interval:**  The number of seconds between refresh requests this HomeStat app requests data from your Hubitat hub.
 
 **Cycle Time:** Advanced Setting - The duration (seconds) for a recent refresh cycle, from when data was requested from a device, to when data was received from that device.  You do not want the cycle time to be greater than the refresh interval.  This data is displayed at the top of the screen with the HomeStat name.
 	
 **HomeStat Settings**
-	• Refresh Interval (seconds)
-		○ HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 5 (poll every 16th cycle).  When a device is associated with any group, the poll interval is raised to a priority of 3 (poll every 4th cycle).
-* Devices Per Line: 
+* Refresh Interval (seconds)
+  * HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 3 (poll every 4th cycle). 
+		
+		
+**Devices Per Line** 
   * Default: 7
   * When a group has more devices than this parameter, it will separate the group name and device status icons into multiple lines.
 * Hubitat Configuration:
