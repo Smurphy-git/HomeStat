@@ -59,12 +59,9 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 **Hubitat Settings**
 * HomeStat currently has the capability to poll data from only one hub.  Eventually, I will to expand the functionality to poll data from multiple hubs.
 * Hubitat has API functionality that is core to the functionality of HomeStat.  You must properly configure the Maker API from within Hubitat so that data can be retrieved from your Hubitat hub.
-  * https://docs.hubitat.com/index.php?title=Hubitat™_Maker_API
-    * Hub Name / Location:  Give your hub a name
-    * Save Changes: When you have correctly entered the required parameters, select this to Save the configuration.
-    * IP Address: The local IP Address of your hub.
-    * App Id
 
+
+[Hubitat Maker API Setup](https://docs.hubitat.com/index.php?title=Hubitat™_Maker_API)
 
 
 ![Image](slides/Slide6.jpeg)
