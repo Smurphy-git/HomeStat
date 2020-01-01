@@ -21,7 +21,7 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 * See raw attributes from Hubitat and Apple Homekit
 * Assign an alias to any device to use a more family friendly name
 
-**Dashboard:**  The main screen of HomeStat.  It shows GroupNames and the status of the devices associated with the groups.
+**Dashboard:**  The main view of HomeStat.  It shows GroupNames and the status of the devices associated with the groups.
 
 **Group:** The core concept of HomeStat is placing your devices into one of more groups.  Those groups are displayed on the dashboard of HomeStat. I prefer group names based on functionality of devices, but you may also use groups based of locations
 * Lights, Motion, Doors, Family, Batteries, Temperature
@@ -43,18 +43,18 @@ HomeStat for [Apple HomeKit](https://www.apple.com/ios/home/) and [Hubitat Eleva
 
 **Cycle Time:** Advanced Setting - The duration (seconds) for a recent refresh cycle, from when data was requested from a device, to when data was received from that device.  You do not want the cycle time to be greater than the refresh interval.  This data is displayed at the top of the screen with the HomeStat name.
 	
-**HomeStat Settings**
+##HomeStat Settings
 * Refresh Interval (seconds)
   * HomeStat will poll your Hubitat at regular intervals.  The default interval is once every 5 seconds.  The Refresh Interval is very tightly integrated with the Priority of each device.   By default, each new device is set to a priority of 3 (poll every 4th cycle). 
 		
 		
 **Devices Per Line** 
-  * Default: 7
+* Default: 7
   * When a group has more devices than this parameter, it will separate the group name and device status icons into multiple lines.
-* Hubitat Configuration:
+  
+##Hubitat Configuration:
   * This section displays a summary of the current Hubitat configuration.  Select this to modify the settings.
 * Show Cycle Time:
-  * When selected, the cycle time of a recent polling cycle will display with the HomeStat app name at the top of the screen.  The cycle time is the duration from when data is requested from a device, to when data is received from a device.
 
 **Hubitat Settings**
 * HomeStat currently has the capability to poll data from only one hub.  Eventually, I will to expand the functionality to poll data from multiple hubs.
